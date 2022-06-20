@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ruthietut
-- 👀 I’m interested in back end coding
-- 🌱 I’m currently learning c#
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning software development
 - 💞️ I’m looking to collaborate on different code
 - 📫 How to reach me ruthifeobasi1@gmail.com
 
